@@ -11,7 +11,7 @@
 
 <article id="icons">
 
-### Icons
+## Icons
 
 - [Lucide Icons](https://lucide.dev/) 1422+ icons · React & Vue libraries · forked from [Feather Icons](https://github.com/feathericons/feather). Official libraries and integrations with popular frameworks and design tools.
 - [Radix Icons](https://www.radix-ui.com/icons) 300+ icons · React
@@ -28,18 +28,16 @@
 
 </article>
 
-----
-
 <article id="fonts">
 
-### Fonts
+## Fonts
 
-#### Design
+### Design
 
 - [Maoken Free commercial Chinese fonts](https://www.maoken.com/all-fonts) Provides **ALLINONE** zip and font previews
 - [uiiiuiii Free commercial Chinese fonts](https://uiiiuiii.com/tool/typeface) Provides zip and font poster application
 
-#### Develop
+### Develop
 - [Fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly, Support NPM or Client
 - [Font spider Plus](https://github.com/allanguys/font-spider-plus) Automatically compresses the WebFont used on local and online pages
 
@@ -49,7 +47,7 @@
 
 <article id="ui-inspiration">
 
-### UI Inspiration
+## UI Inspiration
 
 - [Framer Gallery](https://www.framer.com/gallery/) Discover the best Framer websites
 - [iF Design Award](https://ifdesign.com/en/winner-ranking/winner-overview/?awardId=2&disciplineId=20&sort=desc) Won IF design awards's User Interface (UI)
