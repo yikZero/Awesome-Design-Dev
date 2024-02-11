@@ -1,9 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Awesome Design Dev",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://awesome.yikzero.com/"
   },
   "favicon": "/favicon.svg",
   "colors": {
@@ -18,7 +19,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:awesome@yikzero.com"
     }
   ],
   "topbarCtaButton": {
@@ -84,8 +85,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/yikzero",
+    "github": "https://github.com/yikzero"
   }
 }
