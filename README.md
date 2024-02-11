@@ -55,6 +55,11 @@
 
 - [Framer Gallery](https://www.framer.com/gallery/) Discover the best Framer websites
 - [iF Design Award](https://ifdesign.com/en/winner-ranking/winner-overview/?awardId=2&disciplineId=20&sort=desc) Won IF design awards's User Interface (UI)
+- [Layers](https://layers.to/) A home for designers
+- [Mobbin](https://mobbin.com/browse/ios/apps) The world's largest mobile and web design library
+- [Dark Design](https://www.dark.design/) Curated websites from the dark side
+- [Chi UI Inspiration](https://uxchi.notion.site/UI-Inspiration-881b4c0179a74935a3f607ad3521cdb5) Organize those high-quality UI Inspiration
+- [UI Notes](https://uinotes.com/) collects excellent App UI screenshots, only the landing design
 - [美叶](https://www.meiye.art/) 
 
 </article>
