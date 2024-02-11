@@ -1,13 +1,14 @@
 # Awesome Design Dev
 
+- [English](https://github.com/yikZero/Awesome-Design-Dev/blob/main/README.md)
+- [简体中文](https://github.com/yikZero/Awesome-Design-Dev/blob/main/README.zh-CN.md)
+
 ## Table of Content
 
 - [Icons](#icons)
 - [Fonts](#fonts)
 - [Images](#images)
 - [UI Inspiration](#ui-inspiration)
-
-----
 
 <article id="icons">
 
