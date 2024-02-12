@@ -1,21 +1,25 @@
-name: Translate Readme
+name: Translate README
 
 on:
-    push:
-        branches: ['**']
-
+  push:
+    branches:
+      - main
+      - master
 jobs:
-    translate:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v3
-              with:
-                fetch-depth: 3
-
-            - name: Auto Translate
-              uses: Lin-jun-xiang/action-translate-readme@v2
-              with:
-                token: ${{ secrets.Action_Bot }}
-                g4f_provider: g4f.Provider.DeepAi # You can change this provider
-                langs: "zh-CN,zh-HK,zh-TW"
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      # ISO Langusge Codes: https://cloud.google.com/translate/docs/languages  
+      - name: Adding README - Chinese Simplified
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-CN
+      - name: Adding README - Chinese Traditional
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-TW
