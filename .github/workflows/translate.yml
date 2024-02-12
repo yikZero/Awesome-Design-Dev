@@ -1,0 +1,21 @@
+name: Translate Readme
+
+on:
+    push:
+        branches: ['**']
+
+jobs:
+    translate:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+              with:
+                fetch-depth: 3
+
+            - name: Auto Translate
+              uses: Lin-jun-xiang/action-translate-readme@v2
+              with:
+                token: ${{ secrets.Action_Bot }}
+                g4f_provider: g4f.Provider.DeepAi # You can change this provider
+                langs: "zh-CN,zh-HK,zh-TW"
