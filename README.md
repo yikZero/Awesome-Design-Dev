@@ -9,7 +9,7 @@
 - [Fonts](#fonts)
 - [Images](#images)
 - [UI Inspiration](#ui-inspiration)
-- [Portfolio](#portfolio)
+- [Studio/Portfolio](#studio-portfolio)
 
 <article id="icons">
 
@@ -65,12 +65,13 @@
 
 </article>
 
-<article id="portfolio">
+<article id="studio-portfolio">
 
-## Portfolio
+## Studio / Portfolio
 
 - [Shiryoku](https://shiryoku.framer.website/) Simplicity Portfolio, framer
 - [yasmin p.](https://www.yasmins.site/) Interactive 3D scene, Nextjs, GamePlay
 - [Garryui](https://garryui.cn/) Cocos creator
+- [Buttermax](https://buttermax.net/) Designed by Buttermaxstudio, The gold standard for buttery-smooth digital production
 
 </article>
