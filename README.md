@@ -6,6 +6,7 @@
 ## Table of Content
 
 - [Icons](#icons)
+- [Color](#color)
 - [Fonts](#fonts)
 - [Images](#images)
 - [UI Inspiration](#ui-inspiration)
@@ -27,6 +28,14 @@
 - [Iconfont](https://www.iconfont.cn/) 26,909,769+(Aggregation) icons · Font & SVG
 - [Iconbuddy](https://iconbuddy.app/) 203,940+(Aggregation) icons The ultimate source for icons.
 - [Icônes](https://icones.js.org/) 202,178+(Aggregation) icons · React & Vue libraries
+
+</article>
+
+<article id="color">
+
+## Color
+
+- [UI Colors](https://uicolors.app/) Tailwind CSS Color Generator, Press spacebar, enter a hexcode or change the HSL values to create a custom color scale
 
 </article>
 
