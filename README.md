@@ -43,6 +43,10 @@
 
 ## Fonts
 
+- [Google Fonts](https://fonts.google.com/) Google Fonts are open source and are without cost
+- [FontShare](https://www.fontshare.com/) Free fonts service launched by the Indian Type Foundry (ITF), 100% free for personal and commercial
+- [ETC.](https://etceteratype.co/) the short story here is that we love creating beautiful sets of letters
+- [THE LEAGUE OF MOVEABLE TYPE](https://www.theleagueofmoveabletype.com/) The original, the first, the open-source font foundry.
 - [Maoken Free commercial Chinese fonts](https://www.maoken.com/all-fonts) Provides **ALLINONE** zip and font previews
 - [uiiiuiii Free commercial Chinese fonts](https://uiiiuiii.com/tool/typeface) Provides zip and font poster application
 - [Fontmin](https://github.com/ecomfe/fontmin) Minify font seamlessly, Support NPM or Client
@@ -78,9 +82,11 @@
 
 ## Studio / Portfolio
 
+- [Visual Journal](https://visualjournal.it/) Scarpellini's Blog, show the best branding and graphic design projects from all over the world
 - [Shiryoku](https://shiryoku.framer.website/) Simplicity Portfolio, framer
 - [yasmin p.](https://www.yasmins.site/) Interactive 3D scene, Nextjs, GamePlay
 - [Garryui](https://garryui.cn/) Cocos creator
+- [Florian](https://floriankiem.com/) Florian, Design Engineer, Simplicity
 - [Buttermax](https://buttermax.net/) Designed by Buttermaxstudio, The gold standard for buttery-smooth digital production
 
 </article>
