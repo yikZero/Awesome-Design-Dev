@@ -44,6 +44,8 @@
 ## Fonts
 
 - [Google Fonts](https://fonts.google.com/) Google Fonts are open source and are without cost
+- [Collletttivo](https://www.collletttivo.it/) Open-Source type foundry
+- [Tunera](https://www.tunera.xyz/) Transnational type foundry, that aims to present new and original typefaces for everyone
 - [FontShare](https://www.fontshare.com/) Free fonts service launched by the Indian Type Foundry (ITF), 100% free for personal and commercial
 - [ETC.](https://etceteratype.co/) the short story here is that we love creating beautiful sets of letters
 - [THE LEAGUE OF MOVEABLE TYPE](https://www.theleagueofmoveabletype.com/) The original, the first, the open-source font foundry.
@@ -84,6 +86,7 @@
 
 - [Visual Journal](https://visualjournal.it/) Scarpellini's Blog, show the best branding and graphic design projects from all over the world
 - [Shiryoku](https://shiryoku.framer.website/) Simplicity Portfolio, framer
+- [Marco Cornacchia](https://www.marco.fyi/) Marco Cornacchia—Designing AI experiences at Figma
 - [yasmin p.](https://www.yasmins.site/) Interactive 3D scene, Nextjs, GamePlay
 - [Garryui](https://garryui.cn/) Cocos creator
 - [Florian](https://floriankiem.com/) Florian, Design Engineer, Simplicity
