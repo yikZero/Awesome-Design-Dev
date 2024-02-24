@@ -71,6 +71,7 @@
 
 - [Framer Gallery](https://www.framer.com/gallery/) Discover the best Framer websites
 - [iF Design Award](https://ifdesign.com/en/winner-ranking/winner-overview/?awardId=2&disciplineId=20&sort=desc) Won IF design awards's User Interface (UI)
+- [Awwwards Winning websites](https://www.awwwards.com/websites/) Definitive inspiration resource for digital creatives
 - [Layers](https://layers.to/) A home for designers
 - [Mobbin](https://mobbin.com/browse/ios/apps) The world's largest mobile and web design library
 - [Dark Design](https://www.dark.design/) Curated websites from the dark side
