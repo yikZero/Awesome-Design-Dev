@@ -77,7 +77,7 @@
 - [Dark Design](https://www.dark.design/) Curated websites from the dark side
 - [Chi UI Inspiration](https://uxchi.notion.site/UI-Inspiration-881b4c0179a74935a3f607ad3521cdb5) Organize those high-quality UI Inspiration
 - [UI Notes](https://uinotes.com/) collects excellent App UI screenshots, only the landing design
-- [美叶](https://www.meiye.art/) 
+- [美叶](https://www.meiye.art/)
 
 </article>
 
@@ -85,6 +85,9 @@
 
 ## Studio / Portfolio
 
+- [Basement](https://basement.studio/) Basement , Black&Orange/parallax/anime
+- [Patrick David](https://patrickdavid.com/) Award-winning UX/UI Designer, Vivid animation
+- [Newpeace](https://newpeace.jp/) The ultimate use of lines, the best presentation of design. Develop software for brand development
 - [Visual Journal](https://visualjournal.it/) Scarpellini's Blog, show the best branding and graphic design projects from all over the world
 - [Shiryoku](https://shiryoku.framer.website/) Simplicity Portfolio, framer
 - [Marco Cornacchia](https://www.marco.fyi/) Marco Cornacchia—Designing AI experiences at Figma
