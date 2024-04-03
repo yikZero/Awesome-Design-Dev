@@ -75,6 +75,8 @@
 - [Layers](https://layers.to/) A home for designers
 - [Mobbin](https://mobbin.com/browse/ios/apps) The world's largest mobile and web design library
 - [Appinspo](https://www.appinspo.com/) This is the place where to find the freshest app visual interface design inspiration
+- [Framer Sections](https://www.framersections.com) Launch your next site in minutes, not months. A huge collection of framer sections for your next project.
+- [Navbar Kit](https://navbars.framer.website) A navigation library with access to the entire 300+ navbar kit, dark/light themes, and more.
 - [Dark Design](https://www.dark.design/) Curated websites from the dark side
 - [Chi UI Inspiration](https://uxchi.notion.site/UI-Inspiration-881b4c0179a74935a3f607ad3521cdb5) Organize those high-quality UI Inspiration
 - [UI Notes](https://uinotes.com/) collects excellent App UI screenshots, only the landing design
