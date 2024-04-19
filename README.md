@@ -9,6 +9,7 @@
 - [Color](#color)
 - [Fonts](#fonts)
 - [Images](#images)
+- [3D](#3d)
 - [UI Inspiration](#ui-inspiration)
 - [Studio/Portfolio](#studio-portfolio)
 
@@ -62,6 +63,18 @@
 
 - [Unsplash](https://unsplash.com/) Free downloaded, Support Commercial and non-commercial purposes, and No permission needed
 - [pixabay](https://pixabay.com/) Free downloaded, Conditional support for business practices
+
+</article>
+
+<article id="3d">
+
+## 3D
+
+- [three.js](https://threejs.org/) JavaScript 3D Library.
+  - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) A React renderer for Three.js
+    - [Drei](https://github.com/pmndrs/drei) useful helpers for react-three-fiber
+- [matter-js](https://github.com/liabru/matter-js) a 2D rigid body physics engine for the web ▲● ■
+- [react-three-rapier](https://github.com/pmndrs/react-three-rapier) a declarative physics library based on the Dimforge Rapier physics engine
 
 </article>
 
