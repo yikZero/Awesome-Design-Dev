@@ -88,6 +88,7 @@
 - [Layers](https://layers.to/) A home for designers
 - [Mobbin](https://mobbin.com/browse/ios/apps) The world's largest mobile and web design library
 - [Appinspo](https://www.appinspo.com/) This is the place where to find the freshest app visual interface design inspiration
+- [LEXINGTON](https://lexingtonthemes.com/) Lexington Themes provides Astro.js and Tailwind themes for various purposes, including design, development, business, and personal use.
 - [Framer Sections](https://www.framersections.com) Launch your next site in minutes, not months. A huge collection of framer sections for your next project.
 - [Stripe Payment Elements](https://docs.stripe.com/payments/elements) Stripe Elements is a set of prebuilt UI components for building your web checkout flow.
 - [Deck.Gallery®](https://www.deck.gallery/) We curate beautifully designed decks, slides, keynotes, guidelines — or whatever you call them.
