@@ -19,6 +19,7 @@
 
 - [Lucide Icons](https://lucide.dev/) 1422+ icons · React & Vue libraries · forked from [Feather Icons](https://github.com/feathericons/feather). Official libraries and integrations with popular frameworks and design tools.
 - [Radix Icons](https://www.radix-ui.com/icons) 300+ icons · React
+- [IBM Carbon Icon](https://carbondesignsystem.com/elements/icons/library/) A design system built by IBM · Angular & React & Vue & Svelte
 - [Hero Icons](https://heroicons.com/) 288+ icons · React & Vue libraries · Designed by the makers of [Tailwind CSS](https://tailwindcss.com/).
 - [Remix Icons](https://remixicon.com/) 2736+ icons · React & Vue libraries
 - [Phosphor Icons](https://phosphoricons.com/) 7488+ icons · React & Vue libraries
